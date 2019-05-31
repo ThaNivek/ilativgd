@@ -9,7 +9,7 @@ body {
     transition: 0.5s;
     background-image: linear-gradient(to bottom right,lightblue,rgb(92, 92, 255));
     padding: 2%;
-    text-align: center;
+    text-align: left;
     font-size: 300%;
     margin: 0;
 }

@@ -22,7 +22,14 @@ body {
 }
 
 .navbar {
-	background-color: grey;
-	padding: 3%;
-	font-size: 20px;
+    transition: 0.5s;
+    background-color: grey;
+    padding: 3%;
+    font-size: 20px;
+}
+
+.navbar a {
+    transition: 0.5s; 
+    color: white;
+    text-decoration: none;
 }

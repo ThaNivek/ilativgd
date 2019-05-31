@@ -24,7 +24,7 @@ body {
 .navbar {
     transition: 0.5s;
     background-color: grey;
-    padding: 3%;
+    padding: 2%;
     font-size: 20px;
 }
 
